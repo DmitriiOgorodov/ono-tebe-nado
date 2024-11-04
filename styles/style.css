@@ -45,7 +45,7 @@
     height: 105px;
 }
 
-.address {
+.header__address {
     width: 240px;
     display: flex;
     margin-left: auto;
