@@ -67,3 +67,11 @@
 .header__address-link {
     border-bottom: 1px black solid;
 }
+
+.cover {
+    margin-top: 96px;
+    min-height: 757px;
+    background-image: url(./../images/cover.jpg);
+    background-position: -139px;
+    background-size: cover;
+}
