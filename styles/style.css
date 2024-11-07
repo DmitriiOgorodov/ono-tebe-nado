@@ -39,6 +39,7 @@
     width: 148px;
     margin-left: 41px;
     align-self: center;
+    cursor: pointer;
 }
 
 .header__image {
