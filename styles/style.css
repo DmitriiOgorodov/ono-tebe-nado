@@ -81,7 +81,7 @@
 }
 
 .overlay {
-    content: "";
+    
     position: absolute;
     top: 0;
     left: 0;
@@ -187,7 +187,7 @@
 }
 
 .lots__card-list-item {
-    
+    position: relative;
 }
 
 .card-link {
